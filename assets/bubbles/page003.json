@@ -1,0 +1,27 @@
+{
+  "image": "assets/pages/page003.png",
+  "bubbles": [
+    {
+      "x": 150,
+      "y": 200,
+      "width": 200,
+      "height": 60,
+      "text": {
+        "ja": "軍の研究者\nその食い",
+        "zh": "军方研究员\n那种食物",
+        "en": "Military researcher\nThat food"
+      }
+    },
+    {
+      "x": 300,
+      "y": 350,
+      "width": 180,
+      "height": 70,
+      "text": {
+        "ja": "植物が人間を\n育てるなんて",
+        "zh": "植物竟然\n培养人类",
+        "en": "Plants actually\nnurturing humans"
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "image": "assets/pages/page002.png",
+  "bubbles": [
+    {
+      "x": 80,
+      "y": 150,
+      "width": 180,
+      "height": 55,
+      "text": {
+        "ja": "計画...？",
+        "zh": "计划...？",
+        "en": "Plan...?"
+      }
+    },
+    {
+      "x": 300,
+      "y": 80,
+      "width": 220,
+      "height": 70,
+      "text": {
+        "ja": "ワイルド\nストロベリー！",
+        "zh": "野生\n草莓！",
+        "en": "Wild\nStrawberry!"
+      }
+    },
+    {
+      "x": 100,
+      "y": 400,
+      "width": 250,
+      "height": 80,
+      "text": {
+        "ja": "君の身体を\n育てるみたいに\n事から",
+        "zh": "就像培养\n你的身体\n一样",
+        "en": "Just like\nnurturing\nyour body"
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "image": "assets/pages/page001.png",
+  "bubbles": [
+    {
+      "x": 50,
+      "y": 100,
+      "width": 200,
+      "height": 60,
+      "text": {
+        "ja": "腹減ったメシだメシ！",
+        "zh": "肚子饿了，开饭吧！",
+        "en": "I'm starving! Time to eat!"
+      }
+    },
+    {
+      "x": 280,
+      "y": 200,
+      "width": 180,
+      "height": 50,
+      "text": {
+        "ja": "はいはい、今作るよ〜",
+        "zh": "好好好，现在就做～",
+        "en": "Alright, I'll make it now~"
+      }
+    },
+    {
+      "x": 120,
+      "y": 350,
+      "width": 220,
+      "height": 70,
+      "text": {
+        "ja": "今日は何を作ろうかな？",
+        "zh": "今天做什么好呢？",
+        "en": "What should I make today?"
+      }
+    }
+  ]
+}
